@@ -9,19 +9,44 @@ body {
     box-sizing: border-box;
 }
 
+/* navigation */
+
 .navigation {
     position: fixed;
     z-index: 500;
-    top: 1rem;
 }
 
+.menu-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
 
-.page1 {
+.menu-item a {
+    display: block;
+    text-decoration: none;
+    color: 
+}
+
+.menu-item-logo {
+    position: fixed;
+    top: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+
+.logo {
+    width: 8rem;
+}
+
+/* page one */
+.page-one {
     background: red;
 }
 
 
 
-.logo {
-    width: 8rem;
-}
