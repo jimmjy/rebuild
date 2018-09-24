@@ -1,0 +1,283 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GalaxieCopernicus-Bold
+FamilyName:Galaxie Copernicus
+StyleName:Bold
+MenuName:Galaxie Copernicus
+StyleBits:0
+WeightClass:650
+WidthClass:5
+AngleClass:0
+FullName:GalaxieCopernicus-Bold
+WritingScript:Roman
+OutlineFileName:\GalaxieCopernicus-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:168276
+FileModTime:1237159676
+NameArray:0,Mac,4,GalaxieCopernicus-Bold
+NameArray:0,Win,1,Galaxie Copernicus
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GalaxieCopernicus-Book
+FamilyName:Galaxie Copernicus
+StyleName:Book
+MenuName:Galaxie Copernicus
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:GalaxieCopernicus-Book
+WritingScript:Roman
+OutlineFileName:\GalaxieCopernicus-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160180
+FileModTime:1237159704
+NameArray:0,Mac,4,GalaxieCopernicus-Book
+NameArray:0,Win,1,Galaxie Copernicus
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1393494653
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AsapCondensed-Bold
+FamilyName:Asap Condensed
+StyleName:Bold
+MenuName:Asap Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Asap Condensed Bold
+WritingScript:Roman
+OutlineFileName:\AsapCondensed-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:152536
+FileModTime:1501507406
+NameArray:0,Mac,4,Asap Condensed Bold
+NameArray:0,Win,1,Asap Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GalaxieCopernicus-Extrabold
+FamilyName:Galaxie Copernicus
+StyleName:Extrabold
+MenuName:Galaxie Copernicus
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:GalaxieCopernicus-Extrabold
+WritingScript:Roman
+OutlineFileName:\GalaxieCopernicus-Extrabold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:166724
+FileModTime:1237159734
+NameArray:0,Mac,4,GalaxieCopernicus-Extrabold
+NameArray:0,Win,1,Galaxie Copernicus
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+MenuName:Helvetica
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica
+WritingScript:Roman
+OutlineFileName:\Helvetica.ttc
+TTCOffset:48
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2319952
+FileModTime:1510090368
+NameArray:0,Mac,18,Helvetica
+NameArray:0,Mac,4,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+MenuName:Helvetica
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Bold
+WritingScript:Roman
+OutlineFileName:\Helvetica.ttc
+TTCOffset:380
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2319952
+FileModTime:1510090368
+NameArray:0,Mac,4,Helvetica Bold
+NameArray:0,Mac,4,Helvetica lihava
+NameArray:0,Mac,4,Helvetica Gras
+NameArray:0,Mac,4,Helvetica Fett
+NameArray:0,Mac,4,Helvetica grassetto
+NameArray:0,Mac,4,Helvetica vet
+NameArray:0,Mac,4,Helvetica Fet
+NameArray:0,Mac,4,Helvetica Negrita
+NameArray:0,Mac,4,Helvetica Carregado
+NameArray:0,Mac,4,Helvetica Halvfet
+NameArray:0,Mac,18,Helvetica Bold
+NameArray:4,Mac,4,Helvetica‭ ‬أسود
+NameArray:4,Mac,4,Helvetica‭ ‬برجسته
+NameArray:5,Mac,4,Helvetica‭ ‬עבה
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Oblique
+FamilyName:Helvetica
+StyleName:Oblique
+MenuName:Helvetica
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Oblique
+WritingScript:Roman
+OutlineFileName:\Helvetica.ttc
+TTCOffset:712
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2319952
+FileModTime:1510090368
+NameArray:0,Mac,18,Helvetica Oblique
+NameArray:0,Mac,4,Helvetica Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-BoldOblique
+FamilyName:Helvetica
+StyleName:Bold Oblique
+MenuName:Helvetica
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Bold Oblique
+WritingScript:Roman
+OutlineFileName:\Helvetica.ttc
+TTCOffset:1044
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2319952
+FileModTime:1510090368
+NameArray:0,Mac,18,Helvetica Bold Oblique
+NameArray:0,Mac,4,Helvetica Bold Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Light
+FamilyName:Helvetica
+StyleName:Light
+MenuName:Helvetica
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Light
+WritingScript:Roman
+OutlineFileName:\Helvetica.ttc
+TTCOffset:1376
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2319952
+FileModTime:1510090368
+NameArray:0,Mac,18,Helvetica Light
+NameArray:0,Mac,4,Helvetica Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-LightOblique
+FamilyName:Helvetica
+StyleName:Light Oblique
+MenuName:Helvetica
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Light Oblique
+WritingScript:Roman
+OutlineFileName:\Helvetica.ttc
+TTCOffset:1676
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2319952
+FileModTime:1510090368
+NameArray:0,Mac,18,Helvetica Light Oblique
+NameArray:0,Mac,4,Helvetica Light Oblique
+%EndFont
+

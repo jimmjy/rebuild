@@ -1,0 +1,48 @@
+/* fonts */
+@font-face {
+    font-family: 'Asap Condensedbold';
+    src: url('fonts/AsapCondensed-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Galaxie Copernicusbold';
+    src: url('fonts/GalaxieCopernicus-Bold.otf');
+}
+
+@font-face {
+    font-family: 'Galaxie Copernicusbook';
+    src: url('fonts/GalaxieCopernicus-Book.otf');
+}
+
+@font-face {
+    font-family: 'Galaxie Copernicusextrabold';
+    src: url('fonts/GalaxieCopernicus-Extrabold.otf');
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('fonts/MinionPro-Regular.otf');
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('fonts/Helvetica.ttc');
+}
+/* Browser reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+/* set properties to inherit and defaults */
+html {
+    height: 100%;
+    font-size: 16px;
+}
+
+body {
+    font-size: 1rem;
+}

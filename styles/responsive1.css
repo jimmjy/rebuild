@@ -1,0 +1,503 @@
+@media all and (max-width: 1000px) {
+    /* main page responsive styling */
+    /* page one styling */
+
+    .menu-item-commitment {
+        display: block;
+    }
+    
+    .responsive-main-page-one {
+        position: relative;
+        top: -1.25rem;
+    }
+
+    .responsive-heart-page-one {
+        bottom: -25rem;
+        width: 17rem;
+    }
+
+    /* page two styling */
+    .responsive-main-page-two {
+        position: relative;
+        top: -1rem;
+    }
+
+    .responsive-skull-page-two {
+        bottom: -23rem;
+        width: 8rem;
+    }
+
+    /* page three styling */
+
+    .responsive-main-page-three {
+        position: relative;
+        top: 0;
+    }
+    
+    .responsive-rose-page-three {
+        width: 13rem;
+        bottom: -21rem;
+    }
+
+    /* page four styling */
+    .responsive-main-page-four {
+        position: relative;
+        top: 0;
+    }
+
+    .responsive-sword-page-four {
+        bottom: -23rem;
+    }
+
+    /* page five styling */
+    .responsive-main-page-five {
+        position: relative;
+        top: 0;
+    }
+
+    .responsive-heart-page-five {
+        bottom: -21rem;
+    }
+
+    /* about page responsive */
+    .responsive-hand-about-page {
+        top: -15rem;
+    }
+
+    .responsive-eye-about-page {
+        bottom: -6rem;
+    }
+
+
+ }
+
+ @media all and (max-width: 900px) {
+     .menu-item-commitment {
+         display: none;
+     }
+     .responsive-about-main {
+        width: 39rem;
+     }
+
+   .responsive-partners-eye {
+       width: 13rem;
+       top: -5rem;
+   }
+
+   .main-content-partners {
+       width: 45rem;
+   }
+
+ }
+
+ @media all and (max-width: 768px) {
+
+    html {
+        font-size: 14px;
+    }
+
+    .juliet-logo {
+        width: 6rem;
+    }
+    /* partners.html */
+
+    .responsive-main-content-partners {
+        width: 90%;
+        top: 8rem;
+    }
+
+    .partners-wrapper {
+        overflow-y: scroll;
+        height: 51rem;
+    }
+
+    .partners-paragraph-desktop {
+        display: none;
+    }
+
+    .partners-paragraph-mobile {
+        display: block;
+    }
+
+    .partner-logo {
+        width: 33%;
+    }
+
+    .partners-wrapper {
+        height: 40rem;
+    }
+
+    /* believe page */
+
+    .responsive-believe-body {
+        top: 19rem;
+        width: 40rem;
+    }
+
+    .responsive-believe-saying {
+        font-size: 2.2rem;
+    }
+
+    .about-main-story {
+            font-size: 1.5rem;
+            line-height: 1.9rem;
+    }
+
+    .responsive-eye-about-page {
+        display: none;
+    }
+
+    .partners-paragraph-desktop {
+        display: block;
+    }
+
+}
+ 
+
+ @media all and (max-width: 660px) {
+
+    .background-about {
+        background-size: cover;
+    }
+
+    .pageOne--hide {
+        display: none;
+    }
+
+    .pageOne--unhide {
+        display: block;
+    }
+
+    .responsive-sword-page-four {
+        bottom: -20rem;
+    }
+
+    .page-four-edge-sword {
+        left: 7em;
+    }
+
+    .responsive-believe-body {
+        top: 19rem;
+        width: 40rem;
+    }
+
+    /* partners */
+    .partner-logo {
+        padding: 1rem;
+    }
+
+    .futurezona-logo {
+        padding: 2.5rem;
+    }
+
+    .we-logo {
+        padding: 3rem;
+    }
+
+    .lyft-logo {
+        padding: 3rem;
+    }
+
+    .responsive-believe-saying {
+        font-size: 2.2rem;
+    }
+ }
+  
+ @media all and (max-width: 577px) { 
+     /* partners */
+    .partners-title {
+        padding-bottom: 0;
+    }
+
+    .juliet-logo {
+        width: 5.5rem;
+    }
+
+    .partner-logo {
+        padding: .7rem;
+    }
+
+    .futurezona-logo {
+        padding: 2.5rem;
+    }
+
+    .we-logo {
+        padding: 3rem;
+    }
+
+    .lyft-logo {
+        padding: 3rem;
+    }
+    
+    .page-one-responsive-center {
+        width: 95%;
+    }
+
+    .responsive-partners-eye {
+        display: none;
+    }
+
+    .responsive-believe-body {
+        top: 14rem;
+        width: 24rem;
+    }
+
+    .responsive-believe-saying {
+        font-size: 1.7rem;
+    }
+
+    .responsive-about-main {
+        width: 33rem;
+    }
+
+    .love-dearly {
+        display: unset;
+    }
+
+    .about-center {
+        display: block;
+    }
+
+    .about-main {
+        top: 8rem;
+    }
+
+    .about-main-story {
+        font-size: 1.5rem;
+        line-height: 1.7rem;
+    }
+
+    /* believe page */
+    .believe-hide {
+        display: none;
+    }
+
+    .believe-unhide {
+        display: block;
+    }
+
+}
+
+@media all and (max-width: 480px) { 
+    html {
+        font-size: .8rem;
+    }
+
+    .juliet-logo {
+        width: 5rem;
+    }
+
+    .background-about {
+        background-position: 0,
+        40% 50%;
+    }
+
+
+    /* main page - page one */
+    .responsive-main-page-one {
+        top: -1.4rem;
+    }
+    .page-one-responsive-center {
+        width: 95%;
+    }
+
+    .pageOne--hide {
+        display: none;
+    }
+
+    .pageOne--unhide {
+        display: block;
+    }
+
+    .responsive-heart-page-one {
+        bottom: -12rem;
+        width: 13rem;
+        right: -4rem;
+    }
+
+    /* main page - page two */
+    .responsive-main-page-two {
+        position: relative;
+        top: -3rem;
+    }
+    .responsive-skull-page-two {
+        bottom: -11rem;
+        width: 10rem;
+        left: -2.3rem;
+    }
+
+    /* page three */
+    .responsive-page--title {
+        font-size: 1.6rem;
+    }
+
+    .page-three-font span {
+        font-size: 1.8rem;
+    }
+
+    .content-center-page-three {
+        top: 15rem;
+    }
+
+    .responsive-rose-page-three {
+        width: 13rem;
+        bottom: -6rem;
+        right: -4rem;
+    }
+
+    /* page four */
+    .page-four-center-content {
+        width: 95%;
+    }
+
+    .page-four-title-body span {
+        font-size: 2rem;
+    }
+
+    .content-center-pre-footer__what-we-do {
+        font-size: 1.1rem
+    }
+
+    .responsive-sword-page-four {
+        bottom: -12rem;
+        right: -.5rem;
+        left: unset;
+    }
+
+    /* page five */
+
+    .responsive-page-five-content {
+        width: 95%;
+    }
+
+    .contact-title {
+        font-size: 2rem;
+    }
+
+    .content-center-contact, .email-container a, .content-center-contact-address {
+        font-size: 1.1rem;
+    }
+
+    .responsive-heart-page-five {
+        display: none;
+    }
+
+    .menu-item a {
+        font-size: 1.2rem;
+    }
+
+    .responsive-about-main {
+        width: 25rem;
+    }
+
+    .about-main-story {
+        font-size: 1.6rem;
+        line-height: 1.7rem;
+    }
+
+    .love-dearly {
+        display: unset;
+    }
+
+    .about-center {
+        display: block;
+    }
+ }
+
+ @media all and (max-width: 414px) {
+    .about-wrapper {
+        overflow: scroll;
+        height: 40rem;
+    }
+
+    .about-main-story {
+        font-size: 1.7rem;
+        line-height: 1.8rem;
+    }
+ }
+
+ @media (max-width: 376px) {
+
+     .menu-item a {
+         font-size: 1rem;
+     }
+
+     .about-wrapper {
+         overflow: scroll;
+         height: 33rem;
+     }
+
+     .about-wrapper::-webkit-scrollbar {
+         width: 0;
+     }
+
+     .about-main {
+         top: 6rem;
+     }
+
+     .about-main-story {
+        font-size: 1.5rem;
+        line-height: 1.5rem;
+     }
+
+     .responsive-about-main {
+         width: 23rem;
+     }
+
+     /* partners */
+
+     .responsive-main-content-partners {
+         top: 6rem;
+     }
+
+     .partners-wrapper {
+         height: 30rem;
+     }
+
+     .partner-logo {
+         padding: .2rem;
+     }
+
+     .futurezona-logo {
+         padding: 2.2rem;
+     }
+
+     .we-logo {
+         padding: 2.5rem;
+     }
+
+     .lyft-logo {
+         padding: 2.5rem;
+     }
+ }
+
+ @media (max-width: 330px) {
+
+    .about-main {
+        top: 6rem;
+    }
+
+    .about-main-story {
+        font-size: 1.7rem;
+        line-height: 1.8rem;
+    }
+
+    .about-main-story::-webkit-scrollbar {
+        width: 0;
+    }
+
+    .about-wrapper {
+        overflow: scroll;
+        height: 30rem;
+    }
+
+    .partners-wrapper {
+        height: 17rem;
+    }
+
+    .page-three-font {
+        font-size: 1.8rem;
+    }
+ }
+
+

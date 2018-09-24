@@ -1,0 +1,72 @@
+/* background styling */
+.background-splash {
+    background: 
+    url('../images/backgrounds/Juliet_Pattern_v2-05-small.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.menu-item-what-we-believe a {
+    color: #fff;
+}
+/* ------------------- check scrolling at 900 --------------------- for background */
+/* body content styling */
+.believe-body-content {
+    width: 50rem;
+    position: absolute;
+    top: 14rem;
+    left: 50%;
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    -o-transform: translate(-50%);
+    text-align: center;
+}
+
+.believe-saying {
+    color: rgb(255,246,241);
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+    font-family: 'Galaxie Copernicusextrabold', Helvetica, sans-serif;
+}
+
+.believe-saying-line {
+    display: block;
+}
+
+/* back and button styles */
+
+.believe-back-title {
+    text-transform: uppercase;
+    font-size: .8rem;
+    padding-bottom: 1rem;
+    font-family: Helvetica, sans-serif;
+    color: rgb(221, 186, 119);
+}
+
+.believe-button {
+    width: 3.7rem;
+    margin: 0 auto;
+}
+
+.believe-button a {
+    display: block;
+}
+
+.believe-button img {
+    width: 100%;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+}
+
+.believe-unhide {
+    display: none;
+}

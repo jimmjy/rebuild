@@ -1,0 +1,456 @@
+
+/* pages style */
+
+#page-one, #page-five {
+    background: rgb(239, 70, 35);
+    height: 100vh;
+    position: relative;
+}
+
+/* center page content styling */
+
+.main-content-center {
+    width: 80%;
+    position: relative;
+    top: 11rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.content-center-heading {
+    position: relative;
+    top: 0rem;
+    color: rgb(255, 246, 241);
+    line-height: 2.7rem;
+    font-family: 'Galaxie Copernicusextrabold';
+    padding-bottom: .8rem;
+}
+
+/* page one animation classes */
+.page-one-title-animate {
+    opacity: 0;
+}
+
+.page-one-body-animate {
+    opacity: 0;
+}
+
+.page-two-spacing {
+    top: -4rem;
+}
+
+.content-center-heading__top {
+    display: block;
+    font-size: 2.3rem;
+    font-family: 'Galaxie Copernicusbold';
+}
+
+.page-two-inside-out {
+    position: relative;
+    top: -3rem;
+}
+
+.content-center-body {
+    text-align: center;
+    color: rgb(221,186,119);
+    line-height: 1.3rem;
+}
+
+.content-center-body__para {
+    font-family: 'Galaxie Copernicusbook';
+    font-size: 1rem;
+    display: block;
+    letter-spacing: .05rem;
+}
+
+.content-center-footer {
+    color: rgb(221,186,119);
+    text-transform: uppercase;
+    font-family: 'Helvetica', sans-serif;
+    letter-spacing: .1rem;
+    font-size: .8rem;
+    font-weight: 100;
+    padding: 1.6rem;
+}
+
+.content-center-downarrow {
+    width: 3.7rem;
+    margin: 0 auto;
+}
+
+.content-center-downarrow img {
+    width: 100%;
+}
+
+.pageOne--unhide {
+    display: none;
+}
+
+/* page one heart image */
+.page-one-edge-heart {
+    position: absolute;
+    width: 18rem;
+    bottom: -6rem;
+    right: 9rem;
+    z-index: 200;
+}
+
+.page-one-edge-heart img {
+    display: block;
+    width: 100%;
+}
+
+/* page two content styling */
+#page-two {
+    background: rgb(221, 186, 119);
+    height: 100vh;
+    position: relative;
+}
+
+.page-two-title-animate {
+    opacity: 0;
+}
+
+.page-two-body-animate {
+    opacity: 0;
+}
+
+.content-center-heading__page-two, .content-center-heading__underline {
+    font-size: 2.3rem;
+    font-family: 'Galaxie Copernicusbold';
+}
+
+.content-center-heading__underline {
+    border-bottom: .02rem solid #fff;
+    display: inline-block;
+    line-height: 2.3rem;
+}
+
+.content-center-footer__page-two {
+    font-family: Helvetica, sans-serif;
+    text-transform: uppercase;
+    color: rgb(239, 70, 35);
+    padding: 0 0 1rem 0;
+    font-size: .8rem;
+    letter-spacing: .04rem;
+}
+
+/* page two edge image styling */
+.page-two-edge-skull {
+    position: absolute;
+    width: 9rem;
+    bottom: -2.7rem;
+    left: 9em;
+    z-index: 200;
+}
+
+.page-two-edge-skull img {
+    display: block;
+    width: 100%;
+}
+
+/* page three styling */
+#page-three {
+    background: rgb(152, 127, 72);
+    height: 100vh;
+    position: relative;
+}
+
+.content-center-page-three {
+    top: 15rem;
+}
+
+.page-three-title-animation {
+    opacity: 0;
+}
+
+.page-three-title-body-animate {
+    opacity: 0;
+}
+
+.page-three-title-footer-animate {
+    opacity: 0;
+}
+
+.content-center-pre-heading {
+    text-transform: uppercase;
+    font-family: 'Asap Condensedbold', Helvetica, sans-serif;
+    font-size: 2rem;
+    letter-spacing: .1rem;
+    color: rgb(221, 186, 119);
+    padding-bottom: .9rem;
+}
+
+.content-center-pre-footer__what-we-do {
+    display: block;
+    font-family: 'Galaxie Copernicusbook';
+    line-height: 1.3rem;
+    color: rgb(221, 186, 119);
+    letter-spacing: .04rem;
+}
+
+.get--out {
+    color: rgb(255, 246, 241);
+}
+
+.line-space-page-three {
+    letter-spacing: .03rem;
+}
+
+/* rose edge image styling */
+
+.page-three-edge-rose {
+    position: absolute;
+    width: 15rem;
+    bottom: -5.5rem;
+    right: 9em;
+    z-index: 200;
+}
+
+.page-three-edge-rose img {
+    display: block;
+    width: 100%;
+}
+
+/*  page four styling */
+#page-four {
+    background: rgb(152, 127, 72);
+    height: 100vh;
+    position: relative;
+}
+
+.look--like {
+    color: rgb(255, 246, 241);
+}
+
+.page-four-title-animate {
+    opacity: 0;
+}
+
+.page-four-up-animation {
+    opacity: 0;
+}
+
+.page-four-title-body-animation {
+    opacity: 0;
+}
+
+/* edge sword styling */
+.page-four-edge-sword {
+    position: absolute;
+    width: 13rem;
+    bottom: -6rem;
+    left: 9em;
+    z-index: 200;
+}
+
+.page-four-edge-sword img {
+    display: block;
+    width: 100%;
+}
+
+/* page five styling */
+#page-five {    
+    overflow-y: hidden;
+}
+
+.contact-title {
+    font-size: 3rem;
+    padding-bottom: 2rem;
+}
+
+.content-center-contact-paragraph {
+    font-family: 'Galaxie Copernicusbook', Helvetica, sans-serif;
+}
+
+.content-center-contact {
+    display: block;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    letter-spacing: .08rem;
+}
+
+.contact--gold {
+    color: rgb(221, 186, 119);
+}
+
+.email-links {
+    padding: 2rem 0;
+}
+
+.email-container {
+    text-align: center;
+    padding: .2rem;
+}
+
+.email-link {
+    display: inline;
+    color: rgb(255, 246, 241);
+    padding: .2rem;
+    font-family: 'Galaxie Copernicusbook', Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+.content-center-contact-address {
+    display: block;
+    line-height: 1.5rem;
+    font-family: 'Galaxie Copernicusbook', Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+/* page five edge image styling */
+
+.page-five-edge-rose {
+    position: absolute;
+    width: 12rem;
+    bottom: -6.3rem;
+    left: 9em;
+    z-index: 200;
+}
+
+.page-five-edge-rose img {
+    display: block;
+    width: 100%;
+}
+
+/* animations classes */
+
+.animate-page-title {
+    position: relative;
+    animation: fadeInSlideUp 1s ease-in-out forwards;
+    -webkit-animation: fadeInSlideUp 1s ease-in-out forwards;
+}
+
+.animate-two {
+    animation: fadeIn 1s .5s ease-in forwards;
+    -webkit-animation: fadeIn 1s .5s ease-in forwards;
+}
+
+.animate-fadein-delay {
+    animation: fadeIn 1s 1s ease-in forwards;
+    -webkit-animation: fadeIn 1s 1s ease-in forwards;
+}
+
+.animate-page-title-no-delay {
+    animation: fadeIn 1s ease-in forwards;
+    -webkit-animation: fadeIn 1s ease-in forwards;
+}
+
+.animate-two-delay {
+    position: relative;
+    animation: fadeInSlideUp 1s .5s ease-in-out forwards;
+    -webkit-animation: fadeInSlideUp 1s .5s ease-in-out forwards;
+}
+
+.animate-up {
+    position: relative;
+    animation: fadeInSlideUp 1s ease-in-out forwards;
+    -webkit-animation: fadeInSlideUp 1s ease-in-out forwards;
+}
+
+.animate-two-down {
+    position: relative;
+    animation: fadeInSlideDown 1s ease-in-out forwards;
+    -webkit-animation: fadeInSlideDown 1s ease-in-out forwards;
+}
+
+/* animation steps */
+@-webkit-keyframes fadeInSlideUp {
+    0% {
+       opacity: 0;
+       transform: translateY(20px);
+       -webkit-transform: translateY(20px);
+       -moz-transform: translateY(20px);
+       -ms-transform: translateY(20px);
+       -o-transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -ms-transform: translateY(0);
+        -o-transform: translateY(0);
+    }
+}
+
+@keyframes fadeInSlideUp {
+    0% {
+       opacity: 0;
+       transform: translateY(20px);
+       -webkit-transform: translateY(20px);
+       -moz-transform: translateY(20px);
+       -ms-transform: translateY(20px);
+       -o-transform: translateY(20px);
+}
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -ms-transform: translateY(0);
+        -o-transform: translateY(0);
+}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeInSlideDown {
+    0% {
+       opacity: 0;
+       transform: translateY(-20px);
+       -webkit-transform: translateY(-20px);
+       -moz-transform: translateY(-20px);
+       -ms-transform: translateY(-20px);
+       -o-transform: translateY(-20px);
+}
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -ms-transform: translateY(0);
+        -o-transform: translateY(0);
+}
+}
+
+@keyframes fadeInSlideDown {
+    0% {
+       opacity: 0;
+       transform: translateY(-20px);
+       -webkit-transform: translateY(-20px);
+       -moz-transform: translateY(-20px);
+       -ms-transform: translateY(-20px);
+       -o-transform: translateY(-20px);
+}
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -ms-transform: translateY(0);
+        -o-transform: translateY(0);
+}
+}

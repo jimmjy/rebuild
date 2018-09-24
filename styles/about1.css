@@ -1,0 +1,86 @@
+/* background setup */
+
+
+.background-splash {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(221, 185, 119, .5)), to(rgba(221, 185, 119, .5))), url('../images/backgrounds/Juliet_founders-min.jpg');
+    background: linear-gradient(rgba(221, 185, 119, .5), rgba(221, 185, 119, .5)), url('../images/backgrounds/Juliet_founders-min.jpg');
+    background-size: cover cover;
+    background-repeat: no-repeat;
+    background-position: 0, 35% 50%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+/* body content styling */
+
+.menu-item-about a {
+    color: #fff;
+}
+
+.about-main {
+    position: relative;
+    top: 10rem;
+    left: 50%;
+    -webkit-transform:translateX(-50%);
+            transform:translateX(-50%);
+    width: 44rem;
+    -webkit-transform:translate(-50%);
+    -moz-transform:translate(-50%);
+    -ms-transform:translate(-50%);
+    -o-transform:translate(-50%);
+}
+
+.about-main-body {
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+
+.about-main-story {
+    font-family: 'Galaxie Copernicusbook';
+    font-size: 1.3rem;
+    line-height: 1.7rem;
+    color: rgb(255, 255, 255);
+}
+
+.love-dearly {
+    display: block;
+    text-align: center
+}
+
+/* edge image styling */
+
+.edge-eye-logo-about {
+    width: 16rem;
+    position: absolute;
+    bottom: -6rem;
+    right: 7rem;
+}
+
+.edge-eye-logo-about img {
+    width: 100%;
+    display: block;
+}
+
+.believe-button {
+    width: 3.7rem;
+    margin: 0 auto;
+}
+
+.believe-button a {
+    display: block;
+}
+
+.believe-button img {
+    width: 100%;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+}
+
+.partners-wrapper {
+    height: 28rem;
+}
